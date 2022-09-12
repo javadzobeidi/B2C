@@ -1,0 +1,18 @@
+{
+   "users": [
+    {
+
+      "displayName": "[TEST] Bridgette Harmon (Local account)",
+      "givenName": "Bridgette",
+      "surname": "Harmon",
+      "identities": [
+        {
+            "signInType": "emailAddress",
+            "issuerAssignedId": "bridgette@wingtiptoys.com"
+        }
+      ],
+      "password": "Pass!w0rd"
+    }
+    
+  ]
+}
